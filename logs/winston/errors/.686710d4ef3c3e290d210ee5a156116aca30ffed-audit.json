@@ -1,0 +1,55 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "D:\\my-projects\\packnshift\\packnshift-server\\logs\\winston\\errors\\.686710d4ef3c3e290d210ee5a156116aca30ffed-audit.json",
+  "files": [
+    {
+      "date": 1698401811390,
+      "name": "D:\\my-projects\\packnshift\\packnshift-server\\logs\\winston\\errors\\phu-2023-27-10-16-error.log",
+      "hash": "a001c7d262b4e0cbf7fee0918c7f1ec2950b5915021ebdf0fe95d162f62fdb30"
+    },
+    {
+      "date": 1698414284480,
+      "name": "D:\\my-projects\\packnshift\\packnshift-server\\logs\\winston\\errors\\phu-2023-27-10-19-error.log",
+      "hash": "1d133465f912c5e9f5a5c99ac03aaad51fd0df4efe0e2f34920ad3dddbec411e"
+    },
+    {
+      "date": 1698415220984,
+      "name": "D:\\my-projects\\packnshift\\packnshift-server\\logs\\winston\\errors\\phu-2023-27-10-20-error.log",
+      "hash": "02010fc409292bf223e76aa89d879067b21c2fdf3ef7e25fb8be7caca43104de"
+    },
+    {
+      "date": 1698537461211,
+      "name": "D:\\my-projects\\packnshift\\packnshift-server\\logs\\winston\\errors\\phu-2023-29-10-05-error.log",
+      "hash": "fde100a334439c772e342741ceacd7bd1a5d4ad56a4f72adab63dd2bf9dff925"
+    },
+    {
+      "date": 1698643707895,
+      "name": "D:\\my-projects\\packnshift\\packnshift-server\\logs\\winston\\errors\\phu-2023-30-10-11-error.log",
+      "hash": "8ea2fa67bd8fc2e1845e1dd6a3318b7cab63dc931c9553cc2b5b09020242dc8e"
+    },
+    {
+      "date": 1698700434014,
+      "name": "D:\\my-projects\\packnshift\\packnshift-server\\logs\\winston\\errors\\phu-2023-31-10-03-error.log",
+      "hash": "da7575f23e71e50d616c5180b1a79d322d2e93ba6545354f7948a7888625dd7c"
+    },
+    {
+      "date": 1698779342995,
+      "name": "D:\\my-projects\\packnshift\\packnshift-server\\logs\\winston\\errors\\phu-2023-01-11-01-error.log",
+      "hash": "22794f6312b8d72f556400286b28030b526059ea070574e87ce613570d2173e0"
+    },
+    {
+      "date": 1698799524967,
+      "name": "D:\\my-projects\\packnshift\\packnshift-server\\logs\\winston\\errors\\phu-2023-01-11-06-error.log",
+      "hash": "cd7effb0925e99d2e68596c0d2c0b822f112b3b9cf909d5c6a99b3db6644e151"
+    },
+    {
+      "date": 1698801232569,
+      "name": "D:\\my-projects\\packnshift\\packnshift-server\\logs\\winston\\errors\\phu-2023-01-11-07-error.log",
+      "hash": "fffa30c073c6cba007da0b3beb4bb97d4de5e038464226e2c7cacc52fb690ffb"
+    }
+  ],
+  "hashType": "sha256"
+}

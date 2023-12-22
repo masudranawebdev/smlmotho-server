@@ -1,0 +1,55 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "D:\\my-projects\\packnshift\\packnshift-server\\logs\\winston\\successes\\.d87a29ba0eecf65dd500a51d8e547aa5a0a065c8-audit.json",
+  "files": [
+    {
+      "date": 1698401811244,
+      "name": "D:\\my-projects\\packnshift\\packnshift-server\\logs\\winston\\successes\\phu-2023-27-10-16-success.log",
+      "hash": "c2ddf8c88b3b981fadae201b9c518476c9c0bc6aa41693e069da8e6e4d4e4c75"
+    },
+    {
+      "date": 1698414284468,
+      "name": "D:\\my-projects\\packnshift\\packnshift-server\\logs\\winston\\successes\\phu-2023-27-10-19-success.log",
+      "hash": "5fd6fc6f6faf8f63f1606889a76cf3fa8e7033f86c49dd83ac68daa836ad240f"
+    },
+    {
+      "date": 1698415220973,
+      "name": "D:\\my-projects\\packnshift\\packnshift-server\\logs\\winston\\successes\\phu-2023-27-10-20-success.log",
+      "hash": "b213e3f62485ee9664f65a64582006727eb579e58554ab25283a73c6bde8d1c5"
+    },
+    {
+      "date": 1698537461127,
+      "name": "D:\\my-projects\\packnshift\\packnshift-server\\logs\\winston\\successes\\phu-2023-29-10-05-success.log",
+      "hash": "b3cd5bcfde5d9322b577baeca31379682e7fcabf01ba13e412f5d52ac0429efc"
+    },
+    {
+      "date": 1698643707856,
+      "name": "D:\\my-projects\\packnshift\\packnshift-server\\logs\\winston\\successes\\phu-2023-30-10-11-success.log",
+      "hash": "db02b73a6c12a2da656f9461238db6d05d59d10c4e92668975c8de768ff4058b"
+    },
+    {
+      "date": 1698700433976,
+      "name": "D:\\my-projects\\packnshift\\packnshift-server\\logs\\winston\\successes\\phu-2023-31-10-03-success.log",
+      "hash": "eaa1c66b9dace9c1fd5d8bdb5b39504b6d4a06d3fc8c3fea397e52ce69ec4950"
+    },
+    {
+      "date": 1698779342946,
+      "name": "D:\\my-projects\\packnshift\\packnshift-server\\logs\\winston\\successes\\phu-2023-01-11-01-success.log",
+      "hash": "f2dc5ed448d2a1f89af684ba5f653efcce0442ec15826a1dfaac9896ce0411df"
+    },
+    {
+      "date": 1698799524918,
+      "name": "D:\\my-projects\\packnshift\\packnshift-server\\logs\\winston\\successes\\phu-2023-01-11-06-success.log",
+      "hash": "7546f7b5436f492b4bb142a52c67ad699ba57f48058e96ad81883dea59b675f8"
+    },
+    {
+      "date": 1698801232530,
+      "name": "D:\\my-projects\\packnshift\\packnshift-server\\logs\\winston\\successes\\phu-2023-01-11-07-success.log",
+      "hash": "630dfc8d2c3082c3c518580b7b81cc2437d2dca91bbecb5ac77f5f26680f5b70"
+    }
+  ],
+  "hashType": "sha256"
+}
