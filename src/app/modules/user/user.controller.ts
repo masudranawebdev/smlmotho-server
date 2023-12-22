@@ -43,21 +43,8 @@ const getDataById: RequestHandler = catchAsync(
   }
 );
 
-const countAllData: RequestHandler = catchAsync(
-  async (req: Request, res: Response) => {
-    const result = await UserService.countAllData();
-    sendResponse(res, {
-      statusCode: httpStatus.OK,
-      success: true,
-      message: 'Data counted Successfully',
-      data: result,
-    });
-  }
-);
-
 export const UserController = {
   signup,
   getAllUser,
   getDataById,
-  countAllData,
 };
