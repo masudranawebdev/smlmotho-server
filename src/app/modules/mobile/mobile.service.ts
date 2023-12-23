@@ -15,7 +15,7 @@ const getAllData = async (
   filters: IMobileFilterablefield,
   paginationOptions: IPaginationOptions
 ): Promise<IGenericResponse<IMobile[]>> => {
-  const { searchTerm, minPrice, maxPrice, ...filtersData } = filters;
+  const { searchTerm, minPrice, maxPrice,color, ...filtersData } = filters;
   const { page, limit, skip, sortBy, sortOrder } =
     paginationHelpers.calculatePagination(paginationOptions);
 
@@ -51,6 +51,14 @@ const getAllData = async (
     andCondition.push({
       price: {
         $lte: Number(maxPrice),
+      },
+    });
+  }
+
+  if (color && color.length > 0) {
+    andCondition.push({
+      color: {
+        $in: color,
       },
     });
   }
