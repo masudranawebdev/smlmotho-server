@@ -1,8 +1,5 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
-/* eslint-disable no-console */
 import express, { Application, Request, Response } from 'express';
 import cors from 'cors';
-// import config from '../src/config/index'
 import cookieParser from 'cookie-parser';
 const app: Application = express();
 
@@ -18,7 +15,7 @@ app.get('/', (req: Request, res: Response) => {
   res.send({
     statusCode: httpStatus.OK,
     success: true,
-    message: 'Welcome to packnshift server',
+    message: 'Welcome to smlmotho server',
     data: {
       message: 'How can i help you sir?',
     },
